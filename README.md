@@ -7,3 +7,9 @@
 `py conversion.py -i ./fresultat_md -o ./dossiers_html`
 
 PS: J'ai une erreur dans mon programme mais je ne sais pas pourquoi j'ai cette erreur.
+
+## Difficulté rencontré
+
+* J'ai mis beaucoup de temps à comprendre le sujet et je ne savais pas par où commencer.  
+* J'ai donc sollicité plusieurs de mes camrades afin de comprendre.  
+* Etant donné que je ne suis pas très bon en python(dû à mon manque de travail dans ce langage probablement) j'ai fais se que j'ai pu dans ce projet.
